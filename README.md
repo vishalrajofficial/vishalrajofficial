@@ -2,13 +2,6 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-Roadmaps are now interactive, you can click the nodes to read more about the topics.
-
-### [View all Roadmaps](https://roadmap.sh)
-
-![](https://i.imgur.com/waxVImv.png)
-
-Here is the list of available roadmaps with more being actively worked upon.
 
 <h3 align="center">A passionate software developer</h3>
 
