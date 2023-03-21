@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Raj</h1>
+![](https://i.imgur.com/waxVImv.png)
 <h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
