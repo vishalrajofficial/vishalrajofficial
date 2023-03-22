@@ -5,6 +5,8 @@
 
 <h3 align="center">A passionate software developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrajofficial&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrajofficial" /> </p>
+
 - 🌱 I’m currently learning **Data Structures and algorithms**
 
 - 📫 How to reach me **vishal-.raj@outlook.com**
@@ -24,6 +26,8 @@
 
 <div style="display:flex; flex-direction:column; ">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalrajofficial&show_icons=true&locale=en&layout=compact" alt="vishalrajofficial" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalrajofficial&show_icons=true&locale=en" alt="vishalrajofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrajofficial&" alt="vishalrajofficial" /></p>
 </div>
