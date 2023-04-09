@@ -1,4 +1,4 @@
-<h1 align="center">Hi !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vishal Raj</h1>
+<h1 align="center">Hi !<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Vishal Raj</h1>
 
 ![](https://i.imgur.com/waxVImv.png)
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
 
-- 📫 How to reach me **vishal-.raj@outlook.com**
+- 📫 Reach me at -> **vishal-.raj@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
