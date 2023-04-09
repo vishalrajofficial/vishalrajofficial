@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishal Raj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vishal Raj</h1>
 
 ![](https://i.imgur.com/waxVImv.png)
 
