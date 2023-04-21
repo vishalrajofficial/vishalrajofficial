@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and algorithms**
 
-- 📫 Reach me at -> **vishal-.raj@outlook.com**
+- 📫 Reach me at -> **vishalraj4@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
