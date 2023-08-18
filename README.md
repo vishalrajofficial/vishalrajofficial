@@ -33,3 +33,5 @@
 
 "(https://api.securityscorecards.dev/projects/github.com/[^/]+/[^/]+)/badge"
 </div>
+"(https://api.securityscorecards.dev/projects/github.com/[^/]+/[^/]+)/badge"
+[![ArtifactHub](https://img.shields.io/badge/ArtifactHub-KubeArmor-blue?logo=artifacthub&labelColor=grey&color=green)](https://artifacthub.io/packages/search?kind=19)
