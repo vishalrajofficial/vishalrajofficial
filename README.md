@@ -3,11 +3,11 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalrajofficial&label=Profile%20views&color=0e75b6&style=flat" alt="vishalrajofficial" /> </p> -->
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 **IIIT Surat CSE**
 
 - 📫 Reach me at -> **vishalraj4@outlook.com**
 
